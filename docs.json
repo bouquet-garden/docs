@@ -1,0 +1,113 @@
+{
+  "$schema": "https://mintlify.com/docs.json",
+  "theme": "mint",
+  "name": "Alice — AI Chief of Staff",
+  "colors": {
+    "primary": "#0D0D0D",
+    "light": "#F5F5F5",
+    "dark": "#0D0D0D",
+    "anchors": {
+      "from": "#0D0D0D",
+      "to": "#4A4A4A"
+    }
+  },
+  "favicon": "/favicon.svg",
+  "navigation": {
+    "tabs": [
+      {
+        "tab": "Overview",
+        "groups": [{"group": "Overview", "pages": ["introduction"]}]
+      },
+      {
+        "tab": "Foundations",
+        "groups": [{"group": "Foundations", "pages": [
+          "01-foundations/architecture",
+          "01-foundations/agents",
+          "01-foundations/skills-integrations",
+          "01-foundations/workflows",
+          "01-foundations/infrastructure"
+        ]}]
+      },
+      {
+        "tab": "Deep Technical",
+        "groups": [{"group": "Deep Technical", "pages": [
+          "02-deep-technical/memory-architecture",
+          "02-deep-technical/model-resilience",
+          "02-deep-technical/multi-agent-orchestration",
+          "02-deep-technical/compound-learning",
+          "02-deep-technical/incident-rules",
+          "02-deep-technical/nightshift",
+          "02-deep-technical/unique-tools",
+          "02-deep-technical/token-economics"
+        ]}]
+      },
+      {
+        "tab": "The Story",
+        "groups": [{"group": "The Alice Story", "pages": [
+          "03-the-alice-story/the-story",
+          "03-the-alice-story/why-coworkers-not-tools",
+          "03-the-alice-story/product-vision",
+          "03-the-alice-story/operational-results",
+          "03-the-alice-story/brag-sheet",
+          "03-the-alice-story/innovation-catalog"
+        ]}]
+      },
+      {
+        "tab": "Playbooks",
+        "groups": [{"group": "Playbooks", "pages": [
+          "04-playbooks/agent-creation",
+          "04-playbooks/skill-creation",
+          "04-playbooks/sprint-management",
+          "04-playbooks/overnight-builds",
+          "04-playbooks/email-triage",
+          "04-playbooks/meeting-actions"
+        ]}]
+      },
+      {
+        "tab": "Case Studies",
+        "groups": [{"group": "Case Studies", "pages": [
+          "05-case-studies/gap-pitch",
+          "05-case-studies/factory-sourcing",
+          "05-case-studies/cx-auto-triage",
+          "05-case-studies/contract-redline",
+          "05-case-studies/ios-app-build"
+        ]}]
+      },
+      {
+        "tab": "Articles",
+        "groups": [
+          {"group": "Articles", "pages": [
+            "06-articles/creative-agency-ai-agent",
+            "06-articles/twitter-threads"
+          ]},
+          {"group": "Reference", "pages": [
+            "07-reference/personas",
+            "07-reference/knowledge-vault",
+            "07-reference/qmd-embeddings",
+            "07-reference/transcripts-synthesis",
+            "07-reference/business-mentorship"
+          ]}
+        ]
+      },
+      {
+        "tab": "Product Marketing",
+        "groups": [{"group": "Product Marketing", "pages": [
+          "08-product-marketing/operator-not-ai-person",
+          "08-product-marketing/week1-vs-week10",
+          "08-product-marketing/failure-catalog",
+          "08-product-marketing/decision-log",
+          "08-product-marketing/delegation-philosophy",
+          "08-product-marketing/cron-as-proactivity",
+          "08-product-marketing/cross-signal-intelligence",
+          "08-product-marketing/compaction-survival"
+        ]}]
+      }
+    ]
+  },
+  "footer": {
+    "socials": {
+      "x": "https://x.com/superaboreal",
+      "github": "https://github.com/bouquet-garden"
+    }
+  }
+}
