@@ -1,3 +1,7 @@
+---
+title: "Cross-Signal Intelligence"
+---
+
 # Cross-Signal Intelligence
 
 **Not "connected apps." Contextual reasoning across 15+ surfaces.**

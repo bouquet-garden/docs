@@ -1,3 +1,7 @@
+---
+title: "Compound Learning Engine"
+---
+
 # Compound Learning Engine
 
 *How every failure makes the system permanently better.*

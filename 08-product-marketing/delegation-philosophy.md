@@ -1,3 +1,7 @@
+---
+title: "The Delegation Philosophy"
+---
+
 # The Delegation Philosophy
 
 **Managing AI is managing. The skills transfer perfectly.**

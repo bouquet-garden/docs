@@ -1,3 +1,7 @@
+---
+title: "Token Economics & Cost Control"
+---
+
 # Token Economics & Cost Control
 
 *How intelligent model routing turns a $12/day expense into a $3/day operating system.*

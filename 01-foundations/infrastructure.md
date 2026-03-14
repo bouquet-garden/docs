@@ -1,3 +1,7 @@
+---
+title: "Infrastructure"
+---
+
 # Infrastructure
 
 *Local-first, resilient, and running 24/7 on a MacBook Pro.*

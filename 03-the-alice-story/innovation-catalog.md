@@ -1,3 +1,7 @@
+---
+title: "Alice Innovation Catalog"
+---
+
 # Alice Innovation Catalog
 *The reference implementation for how AI should actually be deployed in business.*
 

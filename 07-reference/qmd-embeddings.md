@@ -1,3 +1,7 @@
+---
+title: "Reference: QMD Local Embeddings"
+---
+
 # Reference: QMD Local Embeddings
 
 *Semantic search that runs entirely on-device. Zero API cost. Zero rate limits. Zero data leaving the machine.*

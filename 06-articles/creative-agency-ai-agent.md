@@ -1,3 +1,7 @@
+---
+title: "I Run a Creative Agency With One AI Agent. She Costs $3/Day and Managed Our Alibaba Sourcing."
+---
+
 # I Run a Creative Agency With One AI Agent. She Costs $3/Day and Managed Our Alibaba Sourcing.
 
 Last Tuesday at 2 AM, my AI agent was comparing woven label quotes from five Alibaba suppliers while I slept. She'd already pulled the artwork specs from our design files, knew the difference between damask and satin weave (she learned that in January), and was building a comparison matrix with pricing, MOQs, and lead times.

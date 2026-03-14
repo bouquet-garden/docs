@@ -1,3 +1,7 @@
+---
+title: "Case Study: vSoccer Contract Redline — Lawyer-Grade Analysis"
+---
+
 # Case Study: vSoccer Contract Redline — Lawyer-Grade Analysis
 
 *Clause-by-clause MSA analysis, risk classification, recommended positions, and draft contract language.*

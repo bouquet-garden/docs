@@ -1,3 +1,7 @@
+---
+title: "The Nightshift: Your AI Works While You Sleep"
+---
+
 # The Nightshift: Your AI Works While You Sleep
 
 *Autonomous overnight operations across 5 domains with budget caps, safety rails, and morning delivery.*

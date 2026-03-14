@@ -1,3 +1,7 @@
+---
+title: "Product Vision: Where Alice Is Going"
+---
+
 # Product Vision: Where Alice Is Going
 
 *From custom workspace to platform. What the AI Chief of Staff becomes when it grows up.*

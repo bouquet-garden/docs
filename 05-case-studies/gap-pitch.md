@@ -1,3 +1,7 @@
+---
+title: "Case Study: GAP VP Development Pitch — 90,000 Words"
+---
+
 # Case Study: GAP VP Development Pitch — 90,000 Words
 
 *One agent, one session, enterprise-grade pitch package. The kind of deliverable a consulting firm charges $50K for.*

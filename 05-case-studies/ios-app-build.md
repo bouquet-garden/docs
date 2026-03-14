@@ -1,3 +1,7 @@
+---
+title: "Case Study: iOS Companion App — 4,464 Lines in 41 Minutes"
+---
+
 # Case Study: iOS Companion App — 4,464 Lines in 41 Minutes
 
 *Multi-agent orchestration pattern proven by building a real app. The M\*-TASK.md pattern in production.*

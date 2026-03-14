@@ -1,3 +1,7 @@
+---
+title: "Reference: Business Mentorship & Coaching Integration"
+---
+
 # Reference: Business Mentorship & Coaching Integration
 
 *How coaching sessions, business strategy, and mentorship feedback get processed into operational improvements.*

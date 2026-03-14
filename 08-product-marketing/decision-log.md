@@ -1,3 +1,7 @@
+---
+title: "Decision Log"
+---
+
 # Decision Log
 
 **Architectural Decision Records for the Alice System.**

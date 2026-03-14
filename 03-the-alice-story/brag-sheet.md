@@ -1,3 +1,7 @@
+---
+title: "Alice: Product Brag Sheet"
+---
+
 # Alice: Product Brag Sheet
 *One founder. Zero employees. Full executive team.*
 

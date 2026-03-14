@@ -1,3 +1,7 @@
+---
+title: "Twitter Thread Variations — OpenClaw Operator Article"
+---
+
 # Twitter Thread Variations — OpenClaw Operator Article
 
 ## Thread 1: "Here's what my AI agent did this week" (Build-in-public)

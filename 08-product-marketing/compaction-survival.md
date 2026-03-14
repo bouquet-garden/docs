@@ -1,3 +1,7 @@
+---
+title: "Compaction Survival"
+---
+
 # Compaction Survival
 
 **How to give an AI agent persistent memory in a world that keeps erasing it.**

@@ -1,3 +1,7 @@
+---
+title: "Reference: Knowledge Vault — Obsidian Integration"
+---
+
 # Reference: Knowledge Vault — Obsidian Integration
 
 *1,565+ files in a PARA-structured vault. The long-term knowledge layer that gives Alice institutional memory beyond daily notes.*

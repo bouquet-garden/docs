@@ -1,3 +1,7 @@
+---
+title: "Case Study: 565 CX Conversations Resolved in 3 Minutes"
+---
+
 # Case Study: 565 CX Conversations Resolved in 3 Minutes
 
 *How reverse-engineering a REST API eliminated a full-time support role at $0 AI cost.*

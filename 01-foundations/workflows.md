@@ -1,3 +1,7 @@
+---
+title: "Workflows & Crons"
+---
+
 # Workflows & Crons
 
 *26 automated workflows that anticipate needs instead of waiting for instructions.*

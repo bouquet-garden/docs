@@ -1,3 +1,7 @@
+---
+title: "Agent Creation Playbook"
+---
+
 # Agent Creation Playbook
 
 *How to add a new specialized agent to the Alice ecosystem — and when not to.*

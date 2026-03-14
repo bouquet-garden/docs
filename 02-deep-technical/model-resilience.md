@@ -1,3 +1,7 @@
+---
+title: "Model Resilience Architecture"
+---
+
 # Model Resilience Architecture
 
 *Four layers of fallback so your AI never stops working.*

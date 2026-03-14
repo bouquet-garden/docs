@@ -1,3 +1,7 @@
+---
+title: "Meeting → Action Pipeline Playbook"
+---
+
 # Meeting → Action Pipeline Playbook
 
 *Turn 60-minute conversations into structured tasks in 5 minutes.*

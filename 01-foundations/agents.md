@@ -1,3 +1,7 @@
+---
+title: "Agent System"
+---
+
 # Agent System
 
 *9 agents, 4 model tiers, and the delegation economics that make it work.*

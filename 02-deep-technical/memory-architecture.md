@@ -1,3 +1,7 @@
+---
+title: "Memory Architecture: The Unfair Advantage"
+---
+
 # Memory Architecture: The Unfair Advantage
 
 *How an AI remembers your business when every session starts from zero.*

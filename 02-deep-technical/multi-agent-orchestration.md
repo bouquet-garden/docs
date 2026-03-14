@@ -1,3 +1,7 @@
+---
+title: "Multi-Agent Orchestration"
+---
+
 # Multi-Agent Orchestration
 
 *How 9 agents coordinate without stepping on each other — and the failures that taught us how.*

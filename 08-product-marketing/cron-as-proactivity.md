@@ -1,3 +1,7 @@
+---
+title: "Cron as Proactivity"
+---
+
 # Cron as Proactivity
 
 **47 crons = giving AI the ability to initiate.**

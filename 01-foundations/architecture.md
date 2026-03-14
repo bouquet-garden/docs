@@ -1,3 +1,7 @@
+---
+title: "Architecture Overview"
+---
+
 # Architecture Overview
 
 *How Alice is built — and why every architectural choice traces back to a real problem.*

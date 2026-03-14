@@ -1,3 +1,7 @@
+---
+title: "Reference: Agent Personas — Why Identity Improves Output Quality"
+---
+
 # Reference: Agent Personas — Why Identity Improves Output Quality
 
 *The difference between "a language model that answers questions" and "a Chief of Staff who runs your business."*

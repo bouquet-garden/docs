@@ -1,3 +1,7 @@
+---
+title: "Unique Tools We Built"
+---
+
 # Unique Tools We Built
 
 *24 custom scripts that show operational depth. Not wrappers — tools with judgment.*

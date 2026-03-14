@@ -1,3 +1,7 @@
+---
+title: "Email Triage Pipeline Playbook"
+---
+
 # Email Triage Pipeline Playbook
 
 *From inbox chaos to classified, tracked, and draft-ready — twice daily.*

@@ -1,3 +1,7 @@
+---
+title: "The Alice Story: From Vanilla Chatbot to AI Chief of Staff"
+---
+
 # The Alice Story: From Vanilla Chatbot to AI Chief of Staff
 
 *How a creative agency founder turned a $3/day AI into the most reliable member of his team.*

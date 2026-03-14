@@ -1,3 +1,7 @@
+---
+title: "Operational Results: What Alice Actually Delivers"
+---
+
 # Operational Results: What Alice Actually Delivers
 
 *Real metrics, real incidents, real outcomes. No fabricated numbers.*

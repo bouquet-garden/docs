@@ -1,3 +1,7 @@
+---
+title: "Reference: Transcript Synthesis Pipeline"
+---
+
 # Reference: Transcript Synthesis Pipeline
 
 *How meeting transcripts, podcasts, and articles become structured business intelligence.*

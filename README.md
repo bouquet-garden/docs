@@ -1,3 +1,7 @@
+---
+title: "Alice: The AI Chief of Staff"
+---
+
 # Alice: The AI Chief of Staff
 
 **One founder. Zero employees. Full executive team.**

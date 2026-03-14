@@ -1,3 +1,7 @@
+---
+title: "Skills & Integrations"
+---
+
 # Skills & Integrations
 
 *67 skills, 10+ external services, and the integration philosophy behind them.*

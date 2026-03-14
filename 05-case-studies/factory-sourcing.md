@@ -1,3 +1,7 @@
+---
+title: "Case Study: Factory Sourcing — PO to Booked Factory"
+---
+
 # Case Study: Factory Sourcing — PO to Booked Factory
 
 *End-to-end supply chain operation, autonomous. The one that makes sourcing people's jaws drop.*

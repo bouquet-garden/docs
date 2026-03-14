@@ -1,3 +1,7 @@
+---
+title: "Why AI Coworkers, Not AI Tools"
+---
+
 # Why AI Coworkers, Not AI Tools
 
 *The case for treating AI as infrastructure instead of autocomplete.*

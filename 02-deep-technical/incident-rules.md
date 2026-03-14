@@ -1,3 +1,7 @@
+---
+title: "Incident-Derived Rules: The System's Immune System"
+---
+
 # Incident-Derived Rules: The System's Immune System
 
 *18 rules. Each one born from a real failure. Each one preventing an entire class of errors permanently.*

@@ -1,3 +1,7 @@
+---
+title: "The Failure Catalog"
+---
+
 # The Failure Catalog
 
 **Builders trust builders who show the ugly parts.**

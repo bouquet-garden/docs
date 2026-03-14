@@ -1,3 +1,7 @@
+---
+title: "Week 1 vs. Week 10"
+---
+
 # Week 1 vs. Week 10
 
 **From "I connected ChatGPT to Telegram" to "my AI team works overnight while I sleep."**

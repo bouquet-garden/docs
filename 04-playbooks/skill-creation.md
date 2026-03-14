@@ -1,3 +1,7 @@
+---
+title: "Skill Creation Playbook"
+---
+
 # Skill Creation Playbook
 
 *Turn repeatable workflows into reusable capabilities.*

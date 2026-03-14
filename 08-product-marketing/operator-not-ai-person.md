@@ -1,3 +1,7 @@
+---
+title: "I'm Not an AI Person"
+---
+
 # I'm Not an AI Person
 
 **I'm an operator who figured out how to make AI do actual work.**

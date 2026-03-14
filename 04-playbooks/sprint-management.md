@@ -1,3 +1,7 @@
+---
+title: "Sprint Management Playbook"
+---
+
 # Sprint Management Playbook
 
 *How Alice manages sprints in Notion — and why we replaced Linear.*
