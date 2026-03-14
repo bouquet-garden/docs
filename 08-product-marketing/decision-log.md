@@ -69,7 +69,7 @@ OpenClaw's killer features for our use case:
 1. **Cost:** Zero marginal infrastructure cost. The laptop was already owned and sitting unused.
 2. **Privacy:** Client data, vendor communications, financial information — none of it leaves the machine. No cloud provider's terms of service to worry about.
 3. **Simplicity:** No Docker, no Kubernetes, no deployment pipelines. `git pull && restart`. The entire system is files on a filesystem.
-4. **Latency:** Local file reads are <1ms. Local SQLite queries are <1ms. The only network calls are to model APIs, which are unavoidable regardless of deployment.
+4. **Latency:** Local file reads are &lt;1ms. Local SQLite queries are &lt;1ms. The only network calls are to model APIs, which are unavoidable regardless of deployment.
 
 ### Trade-offs Accepted
 - **No redundancy:** If the laptop dies, the system is down until we set up another one. Acceptable risk for a solo operation.

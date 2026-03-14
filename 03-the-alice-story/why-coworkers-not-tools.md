@@ -127,7 +127,7 @@ Our resilience architecture has multiple layers:
 
 **Memory fallback:** Local embeddings → Gemini API → QMD hybrid search → direct file read. Four independent paths to memory retrieval.
 
-**Budget cascade:** Normal operations (>50% budget) → Conservative mode (30-50%, reduce proactive checks) → Austerity (15-30%, essential only) → Emergency (<15%, urgent alert to human).
+**Budget cascade:** Normal operations (>50% budget) → Conservative mode (30-50%, reduce proactive checks) → Austerity (15-30%, essential only) → Emergency (&lt;15%, urgent alert to human).
 
 **Builder watchdogs:** Every overnight builder session has a paired monitoring cron. If the builder stalls (no file changes for 20 minutes), the watchdog kills the hung process and restarts.
 

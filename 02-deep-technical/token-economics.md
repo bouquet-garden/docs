@@ -60,7 +60,7 @@ Frank is a dedicated budget monitoring agent running on Haiku (the cheapest mode
 Budget > 50%  → Full operations
 Budget 30-50% → Conservative (reduce speculative checks)
 Budget 15-30% → Austerity (essentials only)
-Budget < 15%  → Emergency (alert Cordell, minimal ops)
+Budget &lt; 15%  → Emergency (alert Cordell, minimal ops)
 ```
 
 **Why a dedicated agent:** Having Alice monitor her own budget is like asking the spender to audit the spending. Frank is an independent watchdog — the auditor watching the watchers.

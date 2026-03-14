@@ -68,7 +68,7 @@ Three times. Same pattern. Spawn → say "I'll check" → session compacts → w
 
 **The Rule:** `sessions_spawn()` → IMMEDIATELY `cron.add(monitor)`. No exceptions. No "I'll check on it." The monitor is the check.
 
-**Related:** CONTEXT.md was created specifically to survive compaction. A compact (<100 lines) file capturing current operational state, updated after every significant action. When compaction wipes session context, CONTEXT.md tells future-you where things stand.
+**Related:** CONTEXT.md was created specifically to survive compaction. A compact (&lt;100 lines) file capturing current operational state, updated after every significant action. When compaction wipes session context, CONTEXT.md tells future-you where things stand.
 
 ---
 

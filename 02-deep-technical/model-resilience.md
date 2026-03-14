@@ -48,7 +48,7 @@ AI that knows when to slow down:
 Budget > 50%  → Full operations, proactive everything
 Budget 30-50% → Conservative — reduce speculative checks
 Budget 15-30% → Austerity — essentials only, alert the human
-Budget < 15%  → Emergency — urgent notification, minimal ops
+Budget &lt; 15%  → Emergency — urgent notification, minimal ops
 ```
 
 **Frank the Budget Watchdog** monitors daily spend with a dedicated cron. When costs spike — maybe a complex analysis required more Opus calls than expected — Frank throttles non-essential crons to austerity mode. Essential briefings and monitoring keep running. The weekly Notion cleanup can wait.

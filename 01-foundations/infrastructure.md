@@ -110,7 +110,7 @@ Frank (operations agent, Haiku) runs the budget watchdog:
 | >50% | Normal | Full operations |
 | 30-50% | Conservative | Reduce proactive checks |
 | 15-30% | Austerity | Essential only, alert human |
-| <15% | Emergency | Urgent alert, minimal ops |
+| &lt;15% | Emergency | Urgent alert, minimal ops |
 
 ---
 

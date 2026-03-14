@@ -120,11 +120,11 @@ When a Granola transcript is processed, action items are extracted and matched a
 
 | Indicator | Green | Yellow | Red |
 |-----------|-------|--------|-----|
-| Completion rate | >80% | 60-80% | <60% |
+| Completion rate | >80% | 60-80% | &lt;60% |
 | P0 hit rate | 100% | 1 missed | >1 missed |
 | Points vs capacity | Within 10% | 10-25% over | >25% over |
 | Blocked tasks | 0 | 1 | >1 |
-| Untracked work | <10% | 10-25% | >25% |
+| Untracked work | &lt;10% | 10-25% | >25% |
 
 **Untracked work** is the sneaky one: work happening in email and Slack that never gets captured in Notion. The cross-reference validation catches this, but it requires the world state cache to be current.
 

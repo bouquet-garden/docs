@@ -80,7 +80,7 @@ Per-task cap: max 15% of nightly budget
 - >50% remaining → full operations
 - 30-50% → conservative (skip speculative tasks)
 - 15-30% → essentials only (meeting prep, critical monitoring)
-- <15% → emergency stop + alert
+- &lt;15% → emergency stop + alert
 
 ---
 

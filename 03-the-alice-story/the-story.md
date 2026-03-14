@@ -186,7 +186,7 @@ Alice's model routing sends each task to the cheapest model that can handle it:
 | Background crons | Haiku | Reliability over cost savings |
 | Vector embeddings | Gemini | Free tier with local fallback |
 
-Model fallback chains ensure continuity: if Kimi K2.5 hits rate limits, tasks route to Sonnet. If Sonnet is down, Opus takes over. The budget watchdog monitors daily spend and can throttle non-essential operations through a cascade: Normal (>50% budget) → Conservative (30-50%) → Austerity (15-30%) → Emergency (<15%).
+Model fallback chains ensure continuity: if Kimi K2.5 hits rate limits, tasks route to Sonnet. If Sonnet is down, Opus takes over. The budget watchdog monitors daily spend and can throttle non-essential operations through a cascade: Normal (>50% budget) → Conservative (30-50%) → Austerity (15-30%) → Emergency (&lt;15%).
 
 Daily cost dropped to approximately $3/day — $90/month. Less than a Slack subscription.
 

@@ -128,7 +128,7 @@ The 4-tier model structure:
 - Normal (>50%) → full operations
 - Conservative (30-50%) → reduce proactive checks
 - Austerity (15-30%) → essential only, alert human
-- Emergency (<15%) → urgent alert, minimal operations
+- Emergency (&lt;15%) → urgent alert, minimal operations
 
 **Provider diversity** prevents single-provider dependency:
 - Anthropic (Opus, Sonnet, Haiku) — primary

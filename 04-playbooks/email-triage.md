@@ -55,7 +55,7 @@ Every email thread gets classified:
     "owner": "us",          // Ball is with us — we owe a response
     "lastActivity": "2026-03-08T14:30:00Z",
     "staleHours": 18,
-    "escalation": "normal"  // < 24h for our ball
+    "escalation": "normal"  // &lt; 24h for our ball
   }
 }
 ```
@@ -69,10 +69,10 @@ Every email thread gets classified:
 **Staleness rules:**
 | Ownership | Hours | Status |
 |-----------|-------|--------|
-| Our ball | < 24h | Normal |
+| Our ball | &lt; 24h | Normal |
 | Our ball | 24-48h | Warning |
 | Our ball | > 48h | Urgent escalation |
-| Their ball | < 48h | Normal monitoring |
+| Their ball | &lt; 48h | Normal monitoring |
 | Their ball | > 48h | Suggest follow-up nudge |
 
 ### Phase 4: Draft Preparation
@@ -172,7 +172,7 @@ What makes Alice's email triage better than Serif.ai or generic email AI:
 | **Slack** | Team discussions | "Shyla mentioned packaging concerns 2 days ago" |
 | **Granola** | Meeting transcripts | "Discussed in Feb 14 coaching call" |
 | **Obsidian** | SOPs, historical context | "Our vendor evaluation checklist says..." |
-| **World state** | Unified business context | "Kevin's response time is typically <24h" |
+| **World state** | Unified business context | "Kevin's response time is typically &lt;24h" |
 | **Memory** | Relationship history | "We've worked with this vendor since January" |
 
 A response drafted with this context is fundamentally different from a response drafted with only the email thread. The recipient gets a reply that reflects full business awareness, not just inbox awareness.

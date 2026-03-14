@@ -73,7 +73,7 @@ Full Notion integration — not a wrapper, a replacement:
 - Velocity scoring and retrospectives
 - Cross-reference with email/Slack ("this Slack thread implies task X is done, but Notion says In Progress")
 
-**Current sprint: 39 tasks, 4 P0s, IC ratio tracking at 50% (target: <40%).** Alice flags when the founder is the bottleneck — and she's usually right.
+**Current sprint: 39 tasks, 4 P0s, IC ratio tracking at 50% (target: &lt;40%).** Alice flags when the founder is the bottleneck — and she's usually right.
 
 ### 🤖 Multi-Agent Orchestration
 

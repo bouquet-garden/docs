@@ -47,7 +47,7 @@ Score = urgency × proximity × staleness × domain_weight
 
 ```
 1. Calculate remaining token budget
-2. If < 40% of daily budget → skip nightshift (not enough headroom)
+2. If &lt; 40% of daily budget → skip nightshift (not enough headroom)
 3. Score all pending tasks
 4. Select top 3-5 across domains
 5. Verify each task fits within per-task budget cap

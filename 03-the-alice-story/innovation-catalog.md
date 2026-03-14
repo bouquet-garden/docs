@@ -276,7 +276,7 @@ Budget Cascade:
   >50% budget → full operations
   30-50% → conservative mode
   15-30% → austerity (essentials only)
-  <15% → emergency (alert human, minimal ops)
+  &lt;15% → emergency (alert human, minimal ops)
 
 Model Fallback:
   Primary model unavailable → route to fallback
