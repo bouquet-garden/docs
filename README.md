@@ -97,6 +97,20 @@ Technical reference, knowledge systems, and operational context.
 | [Transcript Synthesis](07-reference/transcripts-synthesis.md) | Raw meeting transcripts → structured business intelligence |
 | [Business Mentorship](07-reference/business-mentorship.md) | Coaching integration with Hugh Francis / garden3d |
 
+### [08 — Product Marketing](08-product-marketing/)
+The story behind the system. Failures, decisions, philosophy, and the arguments that make founders lean in.
+
+| Doc | What You'll Learn |
+|-----|-------------------|
+| [Failure Catalog](08-product-marketing/failure-catalog.md) | Every ugly failure that became a permanent rule — the 8-agent trap, wrong vendor messages, silent cron cascades |
+| [Decision Log](08-product-marketing/decision-log.md) | Architectural Decision Records — why OpenClaw, why local-first, why Telegram, why 4 agents not 8 |
+| [Operator, Not AI Person](08-product-marketing/operator-not-ai-person.md) | Brand positioning — a creative agency founder running AI, not an AI person playing business |
+| [Week 1 vs. Week 10](08-product-marketing/week1-vs-week10.md) | The progression from vanilla chatbot to autonomous AI team, week by week |
+| [Delegation Philosophy](08-product-marketing/delegation-philosophy.md) | When Alice asks vs. acts, expensive vs. cheap models, the management philosophy applied to AI |
+| [Cron as Proactivity](08-product-marketing/cron-as-proactivity.md) | 47 crons = AI that initiates, not just responds. Coverage, not conversation. |
+| [Cross-Signal Intelligence](08-product-marketing/cross-signal-intelligence.md) | Contextual reasoning across 15+ surfaces — not connected apps, synthesized understanding |
+| [Compaction Survival](08-product-marketing/compaction-survival.md) | CONTEXT.md: the 100-line file that survives when LLMs forget everything else |
+
 ---
 
 ## The Numbers
