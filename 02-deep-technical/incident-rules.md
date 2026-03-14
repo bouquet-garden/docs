@@ -131,7 +131,7 @@ Prose summaries are not handoffs.
 - Morning digest: one consolidated message at wake-up
 - Per-task cap: max 15% of nightly budget
 
-See [The Nightshift](nightshift.md) for the full design.
+See [The Nightshift](nightshift) for the full design.
 
 ---
 
@@ -216,4 +216,4 @@ After 10 weeks: 18+ rules, each preventing an entire class of errors. The error 
 
 ---
 
-*← Back to [README](../README.md) | Related: [Compound Learning](compound-learning.md) · [The Alice Story](../03-the-alice-story/the-story.md)*
+*← Back to [README](../README) | Related: [Compound Learning](compound-learning) · [The Alice Story](../03-the-alice-story/the-story)*

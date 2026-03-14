@@ -285,4 +285,4 @@ That's the difference. And at $3/day, it's not even a close call.
 
 ---
 
-*← Back to [README](../README.md) | Section: [The Alice Story](./)*
+*← Back to [README](../README) | Section: [The Alice Story](./)*

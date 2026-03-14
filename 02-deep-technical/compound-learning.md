@@ -200,4 +200,4 @@ The error categories don't recur. New ones emerge, but the population of "ways t
 
 ---
 
-*← Back to [README](../README.md) | Related: [Incident-Derived Rules](incident-rules.md) · [Memory Architecture](memory-architecture.md)*
+*← Back to [README](../README) | Related: [Incident-Derived Rules](incident-rules) · [Memory Architecture](memory-architecture)*

@@ -142,4 +142,4 @@ After implementing all four layers:
 
 ---
 
-*← Back to [README](../README.md) | Related: [Token Economics](token-economics.md) · [Infrastructure](../01-foundations/infrastructure.md)*
+*← Back to [README](../README) | Related: [Token Economics](token-economics) · [Infrastructure](../01-foundations/infrastructure)*

@@ -231,8 +231,8 @@ Follow-up tracker: Daily at 11 AM
 
 *The email pipeline handles 200+ emails/month across work and personal accounts. Automated triage saves approximately 30-60 minutes/day of manual classification. Draft quality (with cross-surface context) saves an additional 15-30 minutes/day of response writing.*
 
-*See also: [Skills & Integrations](../tier1/skills-integrations.md) for himalaya details, [Operational Results](../tier3/operational-results.md) for email metrics.*
+*See also: [Skills & Integrations](../tier1/skills-integrations) for himalaya details, [Operational Results](../tier3/operational-results) for email metrics.*
 
 ---
 
-*← Back to [README](../README.md) | Section: [Playbooks](./)*
+*← Back to [README](../README) | Section: [Playbooks](./)*

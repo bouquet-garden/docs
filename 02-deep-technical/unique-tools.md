@@ -200,4 +200,4 @@ These scripts share common principles:
 
 ---
 
-*← Back to [README](../README.md) | Related: [Multi-Agent Orchestration](multi-agent-orchestration.md) · [Infrastructure](../01-foundations/infrastructure.md)*
+*← Back to [README](../README) | Related: [Multi-Agent Orchestration](multi-agent-orchestration) · [Infrastructure](../01-foundations/infrastructure)*

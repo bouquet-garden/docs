@@ -133,7 +133,7 @@ Agents stall. Rate limits hit. Models hallucinate infinite loops. Edge cases cau
 
 **Detection:** Every builder writes progress to `/tmp/ralph-last-progress-{hash}`. A watchdog checks file timestamps. No file change for 20 minutes → investigate. No change for 1 hour → kill and assess.
 
-**The Ralph Builder pattern** (see [Unique Tools](unique-tools.md)) enforces timeouts at the loop level. Each coding iteration gets a configurable timeout (default 300 seconds). If Claude Code hangs, the watchdog kills the process and moves to the next loop iteration.
+**The Ralph Builder pattern** (see [Unique Tools](unique-tools)) enforces timeouts at the loop level. Each coding iteration gets a configurable timeout (default 300 seconds). If Claude Code hangs, the watchdog kills the process and moves to the next loop iteration.
 
 **3-Strike Kill Switch:** If an agent fails the same task 3 times:
 1. STOP spawning
@@ -215,4 +215,4 @@ The original plan had 8 agents (Alice, Dexter, Mojo, Phoenix, Scout, Cortex, Com
 
 ---
 
-*← Back to [README](../README.md) | Related: [Unique Tools](unique-tools.md) · [Agent System](../01-foundations/agents.md)*
+*← Back to [README](../README) | Related: [Unique Tools](unique-tools) · [Agent System](../01-foundations/agents)*

@@ -151,4 +151,4 @@ The compound learning system means the marginal cost of the Nth task is lower th
 
 ---
 
-*← Back to [README](../README.md) | Related: [Model Resilience](model-resilience.md) · [The Nightshift](nightshift.md)*
+*← Back to [README](../README) | Related: [Model Resilience](model-resilience) · [The Nightshift](nightshift)*

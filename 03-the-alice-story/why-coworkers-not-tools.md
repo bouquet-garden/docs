@@ -230,4 +230,4 @@ $3/day. $90/month. The infrastructure is available now. The question is whether 
 
 ---
 
-*← Back to [README](../README.md) | Section: [The Alice Story](./)*
+*← Back to [README](../README) | Section: [The Alice Story](./)*

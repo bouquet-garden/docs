@@ -303,4 +303,4 @@ That's not a feature. It's an architecture. And it's the core argument for treat
 
 ---
 
-*← Back to [README](../README.md) | Section: [The Alice Story](./)*
+*← Back to [README](../README) | Section: [The Alice Story](./)*

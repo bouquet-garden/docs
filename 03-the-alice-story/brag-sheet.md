@@ -231,4 +231,4 @@ In 10 weeks, one founder built:
 
 ---
 
-*← Back to [README](../README.md) | Section: [The Alice Story](./)*
+*← Back to [README](../README) | Section: [The Alice Story](./)*

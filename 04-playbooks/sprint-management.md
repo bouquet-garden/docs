@@ -166,8 +166,8 @@ When a Granola transcript is processed, action items are extracted and matched a
 
 ---
 
-*See also: [Operational Results](../tier3/operational-results.md) for sprint metrics, [Workflows & Crons](../tier1/workflows.md) for the cron setup.*
+*See also: [Operational Results](../tier3/operational-results) for sprint metrics, [Workflows & Crons](../tier1/workflows) for the cron setup.*
 
 ---
 
-*← Back to [README](../README.md) | Section: [Playbooks](./)*
+*← Back to [README](../README) | Section: [Playbooks](./)*

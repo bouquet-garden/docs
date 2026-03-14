@@ -255,8 +255,8 @@ After 3+ successful overnight sessions:
 
 *Overnight builders represent the highest ROI in the system: $4-8 of compute produces work equivalent to $200-500 of freelancer output. Over a month, that's $5,000-10,000 of equivalent value for $120-240 in API costs.*
 
-*See also: [Model Resilience](../tier2/model-resilience.md) for fallback chains, [Multi-Agent Orchestration](../tier2/multi-agent.md) for spawn patterns, [Compound Learning](../tier2/compound-learning.md) for the rules born from builder failures.*
+*See also: [Model Resilience](../tier2/model-resilience) for fallback chains, [Multi-Agent Orchestration](../tier2/multi-agent) for spawn patterns, [Compound Learning](../tier2/compound-learning) for the rules born from builder failures.*
 
 ---
 
-*← Back to [README](../README.md) | Section: [Playbooks](./)*
+*← Back to [README](../README) | Section: [Playbooks](./)*

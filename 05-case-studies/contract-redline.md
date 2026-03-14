@@ -130,4 +130,4 @@ A comprehensive redline response document with:
 
 ---
 
-*← Back to [README](../README.md) | Section: [Case Studies](./)*
+*← Back to [README](../README) | Section: [Case Studies](./)*

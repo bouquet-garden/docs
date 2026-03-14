@@ -122,4 +122,4 @@ Current index size is manageable on a single machine. At 10,000+ files, indexing
 
 ---
 
-*← Back to [README](../README.md) | Section: [Reference](./) | Related: [Memory Architecture](../02-deep-technical/memory-architecture.md), [Model Resilience](../02-deep-technical/model-resilience.md)*
+*← Back to [README](../README) | Section: [Reference](./) | Related: [Memory Architecture](../02-deep-technical/memory-architecture), [Model Resilience](../02-deep-technical/model-resilience)*

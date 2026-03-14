@@ -152,4 +152,4 @@ Building in public. Follow along or DM me to see the setup.
 
 ---
 
-*← Back to [README](../README.md) | Section: [Articles](./)*
+*← Back to [README](../README) | Section: [Articles](./)*

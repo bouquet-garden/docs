@@ -173,4 +173,4 @@ After 10 weeks, Alice has accumulated more operational context about the busines
 
 ---
 
-*← Back to [README](../README.md) | Related: [Compound Learning](compound-learning.md) · [Incident-Derived Rules](incident-rules.md)*
+*← Back to [README](../README) | Related: [Compound Learning](compound-learning) · [Incident-Derived Rules](incident-rules)*

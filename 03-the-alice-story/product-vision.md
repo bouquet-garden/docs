@@ -210,4 +210,4 @@ That's the product.
 
 ---
 
-*← Back to [README](../README.md) | Section: [The Alice Story](./)*
+*← Back to [README](../README) | Section: [The Alice Story](./)*

@@ -125,4 +125,4 @@ Every concept had a commercial model. Every format had a production budget. Ever
 
 ---
 
-*← Back to [README](../README.md) | Section: [Case Studies](./)*
+*← Back to [README](../README) | Section: [Case Studies](./)*

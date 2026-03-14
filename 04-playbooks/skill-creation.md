@@ -257,8 +257,8 @@ Mature (stable, documented, cross-agent)
 
 *67 skills currently installed. Mix of stock OpenClaw skills from ClawdHub and custom skills built for Alice's specific workflows. Each custom skill represents a workflow that was repeated enough times to justify formalization.*
 
-*See also: [Skills & Integrations](../tier1/skills-integrations.md) for the full inventory, [Agent Creation](agent-creation.md) for creating agents that use skills.*
+*See also: [Skills & Integrations](../tier1/skills-integrations) for the full inventory, [Agent Creation](agent-creation) for creating agents that use skills.*
 
 ---
 
-*← Back to [README](../README.md) | Section: [Playbooks](./)*
+*← Back to [README](../README) | Section: [Playbooks](./)*

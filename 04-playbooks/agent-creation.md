@@ -236,8 +236,8 @@ When modifying agent configuration:
 
 *Current roster: 9 agents. Each was added to solve a specific problem and justified by clear cost optimization or specialization needs. The roster was consolidated from 8 to 4+3 during v2.0 "Mission Control" — fewer agents with clearer roles outperformed more agents with overlapping responsibilities.*
 
-*See also: [Agent System](../tier1/agents.md) for the current roster, [Multi-Agent Orchestration](../tier2/multi-agent.md) for coordination patterns.*
+*See also: [Agent System](../tier1/agents) for the current roster, [Multi-Agent Orchestration](../tier2/multi-agent) for coordination patterns.*
 
 ---
 
-*← Back to [README](../README.md) | Section: [Playbooks](./)*
+*← Back to [README](../README) | Section: [Playbooks](./)*

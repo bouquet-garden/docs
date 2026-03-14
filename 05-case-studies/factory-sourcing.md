@@ -134,4 +134,4 @@ Freelancers turn over. Contractors forget context between engagements. Alice's g
 
 ---
 
-*← Back to [README](../README.md) | Section: [Case Studies](./) | Related: [Compound Learning](../02-deep-technical/compound-learning.md)*
+*← Back to [README](../README) | Section: [Case Studies](./) | Related: [Compound Learning](../02-deep-technical/compound-learning)*

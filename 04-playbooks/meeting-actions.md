@@ -232,8 +232,8 @@ The "Next Session Prep" section is generated from incomplete homework items and 
 
 *The meeting pipeline processes coaching calls, business strategy sessions, and sync meetings. Average processing time: 5 minutes for a 60-minute meeting. Output: 4-7 structured Notion tasks with linked quotes + Telegram summary.*
 
-*See also: [Skills & Integrations](../tier1/skills-integrations.md) for Granola details, [Sprint Management](sprint-management.md) for how meeting tasks feed into sprints.*
+*See also: [Skills & Integrations](../tier1/skills-integrations) for Granola details, [Sprint Management](sprint-management) for how meeting tasks feed into sprints.*
 
 ---
 
-*← Back to [README](../README.md) | Section: [Playbooks](./)*
+*← Back to [README](../README) | Section: [Playbooks](./)*

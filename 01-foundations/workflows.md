@@ -214,8 +214,8 @@ All crons run on Haiku ($0.001/run). This is a hard rule born from the GLM-4.7-f
 
 *26 active workflows, 5 disabled (kept for documentation). Total cron cost: ~$0.08/day. Value delivered: proactive email triage, sprint management, knowledge indexing, budget protection, vendor monitoring, and overnight building — all without being asked.*
 
-*See also: [Infrastructure & Monitoring](../tier2/infra-monitoring.md) for cron health monitoring, [Email Triage Pipeline](../tier4/email-triage.md) for step-by-step playbook, [Overnight Builds](../tier4/overnight-builds.md) for builder patterns.*
+*See also: [Infrastructure & Monitoring](../tier2/infra-monitoring) for cron health monitoring, [Email Triage Pipeline](../tier4/email-triage) for step-by-step playbook, [Overnight Builds](../tier4/overnight-builds) for builder patterns.*
 
 ---
 
-*← Back to [README](../README.md) | Next: [Deep Technical](../02-deep-technical/)*
+*← Back to [README](../README) | Next: [Deep Technical](../02-deep-technical/)*

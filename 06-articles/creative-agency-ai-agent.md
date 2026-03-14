@@ -133,4 +133,4 @@ I'm building this in public. If you want to see the actual setup — the cron jo
 
 ---
 
-*← Back to [README](../README.md) | Section: [Articles](./)*
+*← Back to [README](../README) | Section: [Articles](./)*

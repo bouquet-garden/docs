@@ -220,8 +220,8 @@ When a workflow is repeated frequently enough, it becomes a skill:
 
 *67 skills installed. 10+ external integrations. The skill count grows as new workflows stabilize into repeatable patterns. Each skill represents a capability that any agent can invoke — the shared vocabulary of what Alice can do.*
 
-*See also: [Architecture Overview](architecture.md) for system context, [Workflows & Crons](workflows.md) for how skills combine into automated workflows, [Skill Creation Playbook](../tier4/skill-creation.md) for the step-by-step guide.*
+*See also: [Architecture Overview](architecture) for system context, [Workflows & Crons](workflows) for how skills combine into automated workflows, [Skill Creation Playbook](../tier4/skill-creation) for the step-by-step guide.*
 
 ---
 
-*← Back to [README](../README.md) | Next: [Deep Technical](../02-deep-technical/)*
+*← Back to [README](../README) | Next: [Deep Technical](../02-deep-technical/)*

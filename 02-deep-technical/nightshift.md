@@ -170,4 +170,4 @@ With the nightshift:
 
 ---
 
-*← Back to [README](../README.md) | Related: [Overnight Builds Playbook](../04-playbooks/overnight-builds.md) · [Token Economics](token-economics.md)*
+*← Back to [README](../README) | Related: [Overnight Builds Playbook](../04-playbooks/overnight-builds) · [Token Economics](token-economics)*

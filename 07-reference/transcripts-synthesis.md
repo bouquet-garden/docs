@@ -177,4 +177,4 @@ When Alice preps for the next coaching call, she reads all previous coaching not
 
 ---
 
-*← Back to [README](../README.md) | Section: [Reference](./) | Related: [Meeting → Action Pipeline](../04-playbooks/meeting-actions.md)*
+*← Back to [README](../README) | Section: [Reference](./) | Related: [Meeting → Action Pipeline](../04-playbooks/meeting-actions)*

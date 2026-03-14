@@ -196,8 +196,8 @@ All agents read from cache (instant, free, consistent) rather than querying live
 
 *This architecture evolved over 7 weeks from a single agent connected to Telegram to a 9-agent team with 67 skills, 26 crons, and a 4-layer memory system. Every component traces back to a specific operational need or failure.*
 
-*See also: [Model Resilience](../tier2/model-resilience.md), [Memory System](../tier2/memory-system.md), [Multi-Agent Orchestration](../tier2/multi-agent.md), [Infrastructure & Monitoring](../tier2/infra-monitoring.md)*
+*See also: [Model Resilience](../tier2/model-resilience), [Memory System](../tier2/memory-system), [Multi-Agent Orchestration](../tier2/multi-agent), [Infrastructure & Monitoring](../tier2/infra-monitoring)*
 
 ---
 
-*← Back to [README](../README.md) | Next: [Deep Technical](../02-deep-technical/)*
+*← Back to [README](../README) | Next: [Deep Technical](../02-deep-technical/)*

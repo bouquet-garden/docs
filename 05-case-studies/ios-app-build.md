@@ -134,4 +134,4 @@ The incident is a perfect example of the compound learning engine: a real failur
 
 ---
 
-*← Back to [README](../README.md) | Section: [Case Studies](./) | Related: [Multi-Agent Orchestration](../02-deep-technical/multi-agent-orchestration.md)*
+*← Back to [README](../README) | Section: [Case Studies](./) | Related: [Multi-Agent Orchestration](../02-deep-technical/multi-agent-orchestration)*

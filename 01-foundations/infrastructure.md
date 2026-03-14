@@ -260,8 +260,8 @@ Workspace changes committed to GitHub regularly. Full history provides:
 
 *Infrastructure cost: $0 ongoing (runs on existing hardware) + ~$3/day API usage. Total system uptime dependent on MacBook availability and internet connectivity. All critical operations have local fallbacks for cloud API failures.*
 
-*See also: [Model Resilience](../tier2/model-resilience.md) for fallback architecture, [Infrastructure & Monitoring](../tier2/infra-monitoring.md) for monitoring deep dive.*
+*See also: [Model Resilience](../tier2/model-resilience) for fallback architecture, [Infrastructure & Monitoring](../tier2/infra-monitoring) for monitoring deep dive.*
 
 ---
 
-*← Back to [README](../README.md) | Next: [Deep Technical](../02-deep-technical/)*
+*← Back to [README](../README) | Next: [Deep Technical](../02-deep-technical/)*

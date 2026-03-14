@@ -117,4 +117,4 @@ The loading order matters. Identity before personality before rules. The agent k
 
 ---
 
-*← Back to [README](../README.md) | Section: [Reference](./)*
+*← Back to [README](../README) | Section: [Reference](./)*

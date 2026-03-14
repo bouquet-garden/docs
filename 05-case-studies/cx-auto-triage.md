@@ -131,4 +131,4 @@ Alice uses this pattern across multiple integrations. It's one of the highest-le
 
 ---
 
-*← Back to [README](../README.md) | Section: [Case Studies](./)*
+*← Back to [README](../README) | Section: [Case Studies](./)*

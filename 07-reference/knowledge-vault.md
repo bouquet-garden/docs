@@ -63,7 +63,7 @@ obsidian-cli list "02 Areas/Operations"
 ```
 
 ### QMD Semantic Search
-For fuzzy queries where exact keywords might not match, QMD local embeddings (see [QMD Embeddings](./qmd-embeddings.md)) index the vault for semantic search. "How did we handle the last supplier delay?" returns relevant notes even if none contain those exact words.
+For fuzzy queries where exact keywords might not match, QMD local embeddings (see [QMD Embeddings](./qmd-embeddings)) index the vault for semantic search. "How did we handle the last supplier delay?" returns relevant notes even if none contain those exact words.
 
 ---
 
@@ -130,4 +130,4 @@ The vault sits beneath the 4-layer memory architecture as the deep knowledge res
 
 ---
 
-*← Back to [README](../README.md) | Section: [Reference](./) | Related: [Memory Architecture](../02-deep-technical/memory-architecture.md)*
+*← Back to [README](../README) | Section: [Reference](./) | Related: [Memory Architecture](../02-deep-technical/memory-architecture)*

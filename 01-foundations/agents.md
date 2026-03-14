@@ -193,8 +193,8 @@ Don't burn tokens hoping attempt #4 works. The write-up forces articulation of t
 
 ---
 
-*See also: [Multi-Agent Orchestration](../tier2/multi-agent.md) for deep technical details, [Architecture Overview](architecture.md) for system context, [Compound Learning](../tier2/compound-learning.md) for how agent failures become permanent improvements.*
+*See also: [Multi-Agent Orchestration](../tier2/multi-agent) for deep technical details, [Architecture Overview](architecture) for system context, [Compound Learning](../tier2/compound-learning) for how agent failures become permanent improvements.*
 
 ---
 
-*← Back to [README](../README.md) | Next: [Deep Technical](../02-deep-technical/)*
+*← Back to [README](../README) | Next: [Deep Technical](../02-deep-technical/)*
